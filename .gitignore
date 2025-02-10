@@ -3,7 +3,19 @@
 .AppleDouble
 .LSOverride
 
+# Additional files
 .idea
+*.pdf
+*.download
+*.pptx
+*.ppt
+*.exe
+*.pyc
+*.zip
+*.out
+*.gch
+*.ppsx
+*.bin
 
 # Icon must end with two \r
 Icon
